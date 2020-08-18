@@ -33,7 +33,7 @@ When a probe request is received by the Wi-Fi detector, it will be decoded into 
 The information is then uploaded to a cloud server and can be exported into a tabular file (i.e., the comma-separated values [CSV] file) for analysis. The Wi-Fi connection records can then be geocoded based on the location of the Wi-Fi detector. Also, since the MAC address is unique for each mobile device, it can become the identifier of the movement trajectories completed by the same traveler.
 
 ## Wi-Fi Data ##
-The Wi-Fi data for the study area were collected by the 29 Wi-Fi detectors installed in the study area from October 2 through October 14, 2018. They contained the Wi-Fi connection records derived from 463,874 individuals. Due to privacy concerns, the last four digits of the user's MAC address were masked out.
+The Wi-Fi data for the study area were collected by the 29 Wi-Fi detectors installed in the study area (Figure 1) from October 2 through October 14, 2018. They contained the Wi-Fi connection records derived from 463,874 individuals. Due to privacy concerns, the last four digits of the user's MAC address were masked out.
 
 The Wi-Fi data can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/Wifi.zip?raw=true).
 
